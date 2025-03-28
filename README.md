@@ -1,4 +1,4 @@
-# Dokumentasi Proyek: Drafy - Android Note-Taking App
+# Drafy - Android Note-Taking App
 
 <img src="https://github.com/user-attachments/assets/5fa7fb79-c7ed-486b-8bfa-e009220daad0" width="200" height="auto" alt="Drafy Screenshot 1" />
 <img src="https://github.com/user-attachments/assets/18e986d0-1ab1-4c8e-8879-a045b42c66ec" width="200" height="auto" alt="Drafy Screenshot 2" />
