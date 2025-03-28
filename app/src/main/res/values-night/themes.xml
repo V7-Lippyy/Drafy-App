@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark theme -->
+    <style name="Theme.Drafy" parent="android:Theme.Material.NoActionBar">
+        <item name="android:colorPrimary">@color/purple_200</item>
+        <item name="android:colorPrimaryDark">@color/purple_700</item>
+        <item name="android:colorAccent">@color/teal_200</item>
+    </style>
+</resources>
